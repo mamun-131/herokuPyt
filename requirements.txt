@@ -1,0 +1,11 @@
+python
+sklearn
+pandas
+pandas-datareader
+matplotlib
+pillow
+requests
+h5py
+keras
+flask
+
