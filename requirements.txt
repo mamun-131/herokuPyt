@@ -1,11 +1,2 @@
-python
-sklearn
-pandas
-pandas-datareader
-matplotlib
-pillow
-requests
-h5py
-keras
-flask
+python-3.6.6
 
